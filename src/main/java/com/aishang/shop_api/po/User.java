@@ -23,6 +23,8 @@ public class User {
     private Integer state;
 
     private String code;
+    private String num;
+
 
     /**
      * @return u_id
