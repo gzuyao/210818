@@ -23,6 +23,7 @@ public class User {
     private Integer state;
 
     private String code;
+    private String num;
 
 
     /**
